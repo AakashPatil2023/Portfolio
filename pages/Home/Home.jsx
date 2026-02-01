@@ -1,5 +1,5 @@
 import "./Home.css";
-import profileImg from "../../src/assets/images/profile.png";
+import profileImg from "../../src/assets/images/Profile.png";
 
 const Home = () => {
   return (
